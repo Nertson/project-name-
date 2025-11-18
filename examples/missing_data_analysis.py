@@ -4,7 +4,7 @@ Missing Data Analysis for VENTURE-SCOPE
 Investigates patterns in missing data to understand if there are
 systematic biases (e.g., small firms reporting less).
 
-Addresses professor feedback: "if you have missing data, probably 
+Hypothesis "if I have missing data, probably 
 there's a reason why it's missing (maybe small firms have less recording?)"
 """
 
